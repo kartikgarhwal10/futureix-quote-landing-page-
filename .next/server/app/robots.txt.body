@@ -1,6 +1,0 @@
-User-Agent: *
-Allow: /
-Disallow: /internal/
-Disallow: /api/
-
-Sitemap: https://futureix.in/sitemap.xml
