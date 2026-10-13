@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/internal/layout,_N_T_/internal/price-catalogue/layout,_N_T_/internal/price-catalogue/page,_N_T_/internal/price-catalogue"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/620fc9b5182622ad94949dbe08a9d7b8c52568377791d18978a29dddc9a1f6ff/$/internal/price-catalogue",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/internal/price-catalogue/page"
+    },
+    "isFallback": false
+  }
+}

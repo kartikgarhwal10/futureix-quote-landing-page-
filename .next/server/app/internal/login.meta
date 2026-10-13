@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/internal/layout,_N_T_/internal/login/layout,_N_T_/internal/login/page,_N_T_/internal/login"
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/d47a37ee731d505c796386ee7857e78e1ca03ae17795ebfceef5b6060d239d8a/$/internal/login",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/internal/login/page"
+    },
+    "isFallback": false
+  }
+}
